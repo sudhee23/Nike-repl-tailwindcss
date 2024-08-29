@@ -5,7 +5,7 @@ import Services from "./Services";
 import CustomerReviews from "./CustomerReviews";
 import Subscribe from "./Subscribe";
 import Footer from "./Footer";
-import SpecialOffer from "./SpecialOffer";
+import SpecialOffer from "./SpecialOffer"; // This was misplaced in the original code
 import Nav from "./Nav";
 
 export {
@@ -16,7 +16,6 @@ export {
   CustomerReviews,
   Subscribe,
   Footer,
-  import SpecialOffer from "./SpecialOffer";
-,
+  SpecialOffer,
   Nav,
-}
+};
