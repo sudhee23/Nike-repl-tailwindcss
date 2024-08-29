@@ -1,4 +1,3 @@
-import { arrowRight } from "../../assets/icons";
 import { offer } from "../../assets/images";
 import Button from "./Button";
 const SpecialOffer = () => {
